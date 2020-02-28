@@ -1,0 +1,26 @@
+<annotation>
+	<folder>รูปโจร</folder>
+	<filename>IMG_23.jpg</filename>
+	<path>C:\Users\tamte\OneDrive\เดสก์ท็อป\Pnn\รูปโจร\รูปโจร\IMG_23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>301</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>65</ymin>
+			<xmax>287</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>รูปโจร</folder>
+	<filename>IMG_30.jpg</filename>
+	<path>C:\Users\tamte\OneDrive\เดสก์ท็อป\Pnn\รูปโจร\รูปโจร\IMG_30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>42</ymin>
+			<xmax>149</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+</annotation>
