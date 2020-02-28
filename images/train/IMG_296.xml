@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pj_NN_หมวก</folder>
+	<filename>IMG_296.JPG</filename>
+	<path>C:\Users\tamte\OneDrive\เดสก์ท็อป\Pnn\Pj_NN_หมวก\Pj_NN_หมวก\IMG_296.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>25</ymin>
+			<xmax>183</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>
